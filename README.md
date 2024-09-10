@@ -1,5 +1,5 @@
 # Snake3DS
-a clone of classic Snake made to play around with devKitPro and 3DS homebrew! Logic derived from my [Simple Snake](https://github.com/bennettrosenthal/Simple-Snake "Simple Snake"). project.
+a clone of classic Snake made to play around with devKitPro and 3DS homebrew! Logic derived from my [Simple Snake](https://github.com/bennettrosenthal/Simple-Snake "Simple Snake") project.
 
 ## How to Play
 **This game requires your 3DS to be running CFW!**
