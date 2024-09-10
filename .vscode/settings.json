@@ -1,0 +1,11 @@
+{
+    "makefile.configureOnOpen": true,
+    "files.associations": {
+        "Makefile": "makefile",
+        "list.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "coord.h": "c"
+    }
+}
